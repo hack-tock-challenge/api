@@ -1,0 +1,19 @@
+{
+  "name": "hackbot-challenge",
+  "version": "1.0.0",
+  "description": "Rest API for the OUI Challenge Bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hack-tock-challenge/api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hack-tock-challenge/api/issues"
+  },
+  "homepage": "https://github.com/hack-tock-challenge/api#readme"
+}
